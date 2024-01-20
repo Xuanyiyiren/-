@@ -1,0 +1,17 @@
+# Fdb version 4
+["xdvipdfmx"] 0 "test.xdv" "test.pdf" "test" 0 -1
+  "test.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "test.pdf"
+  (rewritten before read)
+["xelatex"] 1697136405 "test.tex" "test.xdv" "test" 1697136408 2
+  "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1681027904 40745 87bb86a62d462f93a1efc6b0c65c872e ""
+  "c:/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1681032431 8768447 8f51c9f08f1c093d9ad27f0d158b4ec7 ""
+  "c:/texlive/2023/texmf.cnf" 1681029799 713 e69b156964470283e0530f5060668171 ""
+  "test.aux" 1697136405 34 3985256e7290058c681f74d7a3565a19 "xelatex"
+  "test.tex" 1697136404 35302 7ed4465b68e965ffd6a68d5fe053f34d ""
+  (generated)
+  "test.aux"
+  "test.log"
+  "test.xdv"
+  (rewritten before read)
